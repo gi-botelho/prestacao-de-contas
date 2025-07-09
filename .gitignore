@@ -1,0 +1,6 @@
+# Ignorar a pasta do Trae
+.trae/
+
+# Ignorar arquivos de rascunho e consolidados
+rascunho*
+consolidado_final.md
