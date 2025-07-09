@@ -94,6 +94,12 @@ th {
     font-weight: bold;
 }
 
+.note {
+    font-size: 0.8em;
+    font-style: italic;
+    color: #666;
+}
+
 .currency {
     text-align: right;
 }
